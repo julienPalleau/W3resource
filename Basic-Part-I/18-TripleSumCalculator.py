@@ -2,7 +2,7 @@
 """
 Write a Python program to calculate the sum of three given numbers. If the values are equal, return three times their sum.
 """
-def sum_thrice(x: int, y: int, z:int ):
+def sum_thrice(x: int, y: int, z:int )->int:
     return 3*(x+y+z) if x==y==z else x+y+z
 
 print(sum_thrice(1, 1, 1))
