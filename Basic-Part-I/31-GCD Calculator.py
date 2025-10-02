@@ -4,6 +4,7 @@ Write a Python program that computes the greatest common divisor (GCD) of two po
 """
 from time import perf_counter
 from functools import wraps
+
 # Ma Solution
 def benchmark_decorator(func):
     @wraps(func)
@@ -34,10 +35,11 @@ def GCD(num1: int, num2: int)->int:
                 return i
     return 1
 
+
 # W3resource Solution
 # Define a function to calculate the greatest common divisor (GCD) of two numbers.
 @benchmark_decorator
-def gcd(x, y):
+def w3resource_gcd(x, y):
     # Initialize gcd to 1.
     gcd = 1
     
@@ -56,13 +58,35 @@ def gcd(x, y):
     # Return the calculated GCD.
     return gcd
 
-# Most efficient solution
+# Most efficient solution with euclide method
 @benchmark_decorator
 def pgcd_euclide(a, b):
     while b:
         a, b = b, a % b
     return a
     
-print(GCD(3960, 18900))
-print(gcd(3960, 18900))
-print(pgcd_euclide(12, 4))
+
+# Other Solution
+from math import gcd
+@benchmark_decorator
+def builtin_gcd(x, y):
+    result = gcd(x, y)
+    return result
+
+
+print(GCD(12, 17))
+print(w3resource_gcd(12, 17))
+print(pgcd_euclide(12, 17))
+print(builtin_gcd(12, 17))
+print()
+
+print(GCD(4, 6))
+print(w3resource_gcd(4, 6))
+print(pgcd_euclide(4, 6))
+print(builtin_gcd(4, 6))
+print()
+
+print(GCD(336, 360))
+print(w3resource_gcd(336, 360))
+print(pgcd_euclide(336, 360))
+print(builtin_gcd(336, 360))
