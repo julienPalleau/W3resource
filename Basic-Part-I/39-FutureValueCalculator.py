@@ -10,6 +10,7 @@ for i in range(0,7):
     value+=value*0.035
 print(round(value, 2))
 
+
 # W3resource Solution
 # Define the principal amount (initial investment).
 amt = 10000
