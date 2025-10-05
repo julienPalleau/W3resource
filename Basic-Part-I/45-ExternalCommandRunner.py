@@ -3,6 +3,7 @@
 Write a Python program that calls an external command.
 """
 # Linux
+# Solution 1
 # # Import the 'call' function from the 'subprocess' module.
 # from subprocess import call
 
@@ -10,7 +11,9 @@ Write a Python program that calls an external command.
 # # This command lists the files and directories in the current directory with details.
 # call(["dir"])
 
+
 # Windows
+# Solution 2
 """
 https://www.tutorialsteacher.com/articles/how-to-call-external-command-in-python
 """
@@ -28,6 +31,8 @@ subprocess.run("dir *", shell=True)
 
 print()
 
+
+# Solution 3
 """
 os.popen() function
 
@@ -53,10 +58,11 @@ pipe=os.popen("dir *")
 print(pipe.read())
 
 
+# Solution 4
 # Import the 'os' module to work with the operating system.
 import os
 
 # Use 'os.system(command)' to execute the 'ls -l' command in the system's shell.
 # This command lists the files and directories in the current directory and prints the result.
-print("test")
+print()
 print(os.system('dir'))
