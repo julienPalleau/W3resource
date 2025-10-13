@@ -1,5 +1,7 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
+17-NumberRangeTester.py
+
 Write a Python program to test whether a number is within 100 of 1000 or 2000.
 """
 # Define a function named "near_thousand" that takes an integer parameter "n"
