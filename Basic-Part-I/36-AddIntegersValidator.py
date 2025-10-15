@@ -1,5 +1,7 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
+36-AddIntegersValidator.py
+
 Write a Python program to add two objects if both objects are integers.
 """
 def add_numbers(obj1, obj2)->int:

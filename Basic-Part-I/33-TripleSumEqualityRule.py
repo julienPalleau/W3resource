@@ -1,5 +1,7 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
+33-TripleSumEqualityRule.py
+
 Write a Python program to sum three given integers. However, if two values are equal, the sum will be zero.
 """
 def sum_three_integers(value1: int, value2: int, value3: int)->int:
