@@ -1,12 +1,14 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
+50-PrintWithoutNewline.py
+
 Write a Python program to print without a newline or space.
 """
 
 # W3resource 
 # Solution 1
 # Iterate through a range of numbers from 0 to 9 (inclusive).
-print("Solution 1: Iteratation.")
+print("Solution 1: For loop.")
 for i in range(0, 10):
     # Print an asterisk '*' character on the same line using the 'end' parameter.
     print('*', end="")
@@ -29,7 +31,7 @@ for _ in range(0, 10):
 # Solution 3
 print()
 print()
-print("Solution 3: Loo[]")
+print("Solution 3: While loop.")
 # Initialize the variable 'i' with the value 0.
 i = 0
 

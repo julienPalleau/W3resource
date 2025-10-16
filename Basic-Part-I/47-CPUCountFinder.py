@@ -1,5 +1,7 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
+47-CPUCountFinder.py
+
 Write a Python program to find out the number of CPUs used.
 """
 # Solution W3resource 1:
