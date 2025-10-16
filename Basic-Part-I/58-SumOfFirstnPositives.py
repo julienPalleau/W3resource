@@ -1,5 +1,7 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
+58-SumOfFirstnPositives.py
+
 Write a Python program to sum the first n positive integers.
 """
 import pyinputplus as pyip

@@ -1,5 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
+62.TimeToSecondsConverter.py
 Write a Python program to convert all units of time into seconds.
 """
 import pyinputplus as pyip

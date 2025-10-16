@@ -1,5 +1,7 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
+66-BMICalculator.py
+
 Write a Python program to calculate the body mass index.
 """
 import pyinputplus as pyip
