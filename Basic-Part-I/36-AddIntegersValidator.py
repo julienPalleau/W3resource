@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-36-AddIntegersValidator.py
+36. Add Integers Validator
 
 Write a Python program to add two objects if both objects are integers.
 """

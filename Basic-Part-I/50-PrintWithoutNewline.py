@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-50-PrintWithoutNewline.py
+50. Print Without Newline
 
 Write a Python program to print without a newline or space.
 """

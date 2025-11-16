@@ -1,7 +1,7 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 # https://www.geeksforgeeks.org/python/python-program-to-convert-seconds-into-hours-minutes-and-seconds/ (solutions)
 """
-65-SecondsToDHMSConverter.py
+65. Seconds to DHMS Converter
 
 Write a Python program that converts seconds into days, hours, minutes, and seconds.
 """
@@ -53,7 +53,7 @@ Explanation:
 """
 
 
-# 3-Using timedelta (from datetime modulte)
+# 3-Using timedelta (from datetime module)
 """
 The datetime module provides a timedelta object which can represent durations, making it easy to convert seconds into a human-readable format.
 """

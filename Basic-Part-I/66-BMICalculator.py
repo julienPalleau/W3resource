@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-66-BMICalculator.py
+66. BMI Calculator
 
 Write a Python program to calculate the body mass index.
 """

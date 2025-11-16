@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-33-TripleSumEqualityRule.py
+33. Triple Sum with Equality Rule
 
 Write a Python program to sum three given integers. However, if two values are equal, the sum will be zero.
 """

@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-26-ListHistogram.py
+26. List Histogram
 
 Write a Python program to create a histogram from a given list of integers.
 """

@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-68-SumOfDigits.py
+68. Sum of Digits
 
 Write a Python program to calculate sum of digits of a number.
 """
@@ -10,7 +10,7 @@ def sum_digit():
     number=pyip.inputInt("Please provide a number with at least 1 digit: ")
     print(number)
     print(str(number))
-    print(list(map(int, str(number))))
+    print(sum(list(map(int, str(number)))))
 
 sum_digit()
 

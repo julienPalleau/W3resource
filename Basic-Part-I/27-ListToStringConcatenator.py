@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-27-ListToStringConcatenator.py
+27. List to String Concatenator
 
 Write a Python program that concatenates all elements in a list into a string and returns it.
 """

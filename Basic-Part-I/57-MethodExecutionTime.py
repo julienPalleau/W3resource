@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-57-MethodExecutionTime.py
+57. Method Execution Time
 
 Write a Python program to get the execution time of a Python method.
 """

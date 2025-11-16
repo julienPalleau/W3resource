@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-60-TriangleHypotenuseCalculator.py
+60. Triangle Hypotenuse Calculator
 
 Write a Python program to calculate the hypotenuse of a right angled triangle.
 """

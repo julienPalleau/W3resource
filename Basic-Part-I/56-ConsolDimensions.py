@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-56-ConsolDimensions.py
+56. Console Dimensions
 
 NOT WORKING ON WINDOWS!
 Write a Python program to get the height and width of the console window.

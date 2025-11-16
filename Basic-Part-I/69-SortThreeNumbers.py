@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-69-SortThreeNumbers.py
+69. Sort Three Numbers
 
 Write a Python program to sort three integers without using conditional statements and loops.
 """

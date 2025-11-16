@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-72-MathModuleDetails.py
+72. Math Module Details
 
 Write a Python program to get the details of the math module.
 """

@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-20-StringCopyGenerator.py
+20. String Copy Generator
 
 Write a Python program that returns a string that is n (non-negative integer) copies of a given string.
 """

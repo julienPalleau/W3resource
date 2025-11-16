@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-17-NumberRangeTester.py
+17. Number Range Tester
 
 Write a Python program to test whether a number is within 100 of 1000 or 2000.
 """

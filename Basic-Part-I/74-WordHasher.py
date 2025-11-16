@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-74-WordHasher.py
+74. Word Hasher
 
 Write a Python program to hash a word.
 """

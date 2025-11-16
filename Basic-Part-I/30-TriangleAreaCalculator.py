@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-30-TriangleAreaCalculator.py
+30. Triangle Area Calculator
 
 Write a Python program that will accept the base and height of a triangle and compute its area.
 """

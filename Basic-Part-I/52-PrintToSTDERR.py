@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-52-PrintToSTDERR.py
+52. Print to STDERR
 
 Write a Python program to print to STDERR.
 """

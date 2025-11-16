@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-18-TripleSumCalculator.py
+18. Triple Sum Calculator
 
 Write a Python program to calculate the sum of three given numbers. If the values are equal, return three times their sum.
 """

@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-49-DirectoryFilesLister.py
+49. Directory Files Lister
 
 Write a Python program to list all files in a directory.
 """

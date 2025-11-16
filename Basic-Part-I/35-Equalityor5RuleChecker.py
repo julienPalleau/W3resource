@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-35-Equalityor5RuleChecker.py
+35. Equality or 5 Rule Checker
 
 Write a Python program that returns true if the two given integer values are equal or their sum or difference is 5.
 """

@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-Basic-Part-I/37-PersonalInfoFormatter.py
+37. Personal Info Formatter
 
 Write a Python program that displays your name, age, and address on three different lines.
 """

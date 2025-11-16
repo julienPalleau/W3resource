@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-75-CopyrightInformation.py
+75. Copyright Information
 
 Write a Python program to get the copyright information and write Copyright information in Python code.
 """
