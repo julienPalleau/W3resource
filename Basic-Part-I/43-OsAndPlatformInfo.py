@@ -1,6 +1,6 @@
 # https://www.w3resource.com/python-exercises/python-basic-exercises.php
 """
-43-OsAndPlatformInfo.py
+43. OS and Platform Info
 
 Write a Python program to get OS name, platform and release information.
 """
